@@ -1,0 +1,36 @@
+{
+  "name": "celsiusfahrenheitkelvin",
+  "version": "1.0.0",
+  "description": "Celsius-Fahrenheit-Kelvin conversion calculator. Accept input in #C (or #c) or #F (or #f) or #K (or #k) format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mostafa-Milani-Amin/celsiusFahrenheitKelvin.git"
+  },
+  "keywords": [
+    "convert",
+    "temperature",
+    "scale",
+    "scales",
+    "unit",
+    "units",
+    "celsius",
+    "fahrenheit",
+    "kelvin",
+    "thermodynamics",
+    "physics",
+    "calculator",
+    "calculate",
+    "conversion",
+    "converter"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mostafa-Milani-Amin/celsiusFahrenheitKelvin/issues"
+  },
+  "homepage": "https://github.com/Mostafa-Milani-Amin/celsiusFahrenheitKelvin#readme"
+}
