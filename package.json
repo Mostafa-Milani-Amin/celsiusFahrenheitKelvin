@@ -1,6 +1,6 @@
 {
   "name": "celsiusfahrenheitkelvin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Celsius-Fahrenheit-Kelvin conversion calculator. Accept input in '#C' (or '#c') or '#F' (or '#f') or '#K' (or '#k') format.",
   "main": "index.js",
   "scripts": {
